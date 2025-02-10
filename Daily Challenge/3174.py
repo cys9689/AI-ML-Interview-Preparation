@@ -14,6 +14,6 @@ class Solution:
 solution = Solution()
 s1 = 'abc'
 s2 = "cb34"
-print("Case 1 Output:", solution.solution.clearDigits(s1))  # Expected output: "abc"
-print("Case 2 Output:", solution.solution.clearDigits(s2))  # Expected output: ""
+print("Case 1 Output:", solution.clearDigits(s1))  # Expected output: "abc"
+print("Case 2 Output:", solution.clearDigits(s2))  # Expected output: ""
 
