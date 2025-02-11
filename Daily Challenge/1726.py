@@ -19,3 +19,4 @@ class Solution:
             result += pair_of_equal_product * 8
         
         return result
+
