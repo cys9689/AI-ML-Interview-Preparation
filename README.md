@@ -17,3 +17,5 @@
 | [Remove All Occurrences of a Substring (1910)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/1910.py) | 🟡 Medium | `Stack` |
 | [Max Sum of a Pair With Equal Sum of Digits (2342)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2342.py) | 🟡 Medium | `HashMap` `Priority Queue` |
 | [Minimum Operations to Exceed Threshold Value II (3066)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/3066.py) | 🟡 Medium | `Priority Queue` |
+| [Product of the Last K Numbers (1352)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/1352.py) | 🟡 Medium | `OOP` |
+
