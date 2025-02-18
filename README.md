@@ -18,4 +18,8 @@
 | [Max Sum of a Pair With Equal Sum of Digits (2342)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2342.py) | 🟡 Medium | `HashMap` `Priority Queue` |
 | [Minimum Operations to Exceed Threshold Value II (3066)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/3066.py) | 🟡 Medium | `Priority Queue` |
 | [Product of the Last K Numbers (1352)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/1352.py) | 🟡 Medium | `OOP` |
+| [Find the Punishment Number of an Integer (2698) ](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2698.py) | 🟡 Medium | `DP` `Back Track` |
+| [Construct Smallest Number From DI String (2375)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2375.py) | 🟡 Medium | `Stack` |
+
+
 
