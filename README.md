@@ -20,7 +20,6 @@
 | [Product of the Last K Numbers (1352)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/1352.py) | 🟡 Medium | `OOP` |
 | [Find the Punishment Number of an Integer (2698) ](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2698.py) | 🟡 Medium | `DP` `Back Track` |
 | [Construct Smallest Number From DI String (2375)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2375.py) | 🟡 Medium | `Stack` |
-|[ The k-th Lexicographical String of All Happy Strings of Length n (1418)]|(https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/1415.py)| 🟡 Medium| `Back Track` ,
-`Stack`|
+| [The k-th Lexicographical String of All Happy Strings of Length n (1418)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/1415.py) |🟡 Medium |`Back Track` `Stack`|
 
 
