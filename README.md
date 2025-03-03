@@ -25,5 +25,5 @@
 | [Length of Longest Fibonacci Subsequence (873)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/873.py)|🟡 Medium|`DP`|
 | [Merge Two 2D Arrays by Summing Values(2570)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2570.py)|🟢 Easy |`HashMap`  `Two Pointer`|
 | [Apply Operations to an Array (2460)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2460.py)|🟢 Easy |`Array`|
-
+| [ Partition Array According to Given Pivot (2161)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2161.py)||🟡 Medium|`Priority Queue`|
 
