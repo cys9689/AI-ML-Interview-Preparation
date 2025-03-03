@@ -23,4 +23,7 @@
 | [The k-th Lexicographical String of All Happy Strings of Length n (1418)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/1415.py) |🟡 Medium |`Back Track` `Stack`|
 | [Number of Sub-arrays With Odd Sum (1524)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/1524.py)|🟡 Medium|`DP`|
 | [Length of Longest Fibonacci Subsequence (873)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/873.py)|🟡 Medium|`DP`|
+| [Merge Two 2D Arrays by Summing Values(2570)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2570.py)|🟢 Easy |`HashMap`  `Two Pointer`|
+| [Apply Operations to an Array (2460)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2460.py)|🟢 Easy |`Array`|
+
 
