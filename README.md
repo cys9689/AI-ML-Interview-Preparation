@@ -29,4 +29,5 @@
 | [Check if Number is a Sum of Powers of Three (1780)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/1780.py)|🟡 Medium|`Iterative`|
 | [Count Total Number of Colored Cells (2579)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2579.py)|🟡 Medium|`Mathmatical`|
 | [Find Missing and Repeated Values (2965)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2965.py)|🟢 Easy| `HashMap` |
+| [Closet Prime Numbers in Range (2523)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2523.py) |🟡 Medium|`Mathmatical`|
 
