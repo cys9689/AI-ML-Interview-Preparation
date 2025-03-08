@@ -30,4 +30,4 @@
 | [Count Total Number of Colored Cells (2579)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2579.py)|🟡 Medium|`Mathmatical`|
 | [Find Missing and Repeated Values (2965)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2965.py)|🟢 Easy| `HashMap` |
 | [Closet Prime Numbers in Range (2523)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2523.py) |🟡 Medium|`Mathmatical`|
-
+| [Minimum Recolors to Get K Consecutive Black Blocks (2379)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2379.py)|🟢 Easy| `Sliding Windows` `Priority Queue` |
