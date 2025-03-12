@@ -34,5 +34,6 @@
 | [Alternating Groups II (3208)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/3208.py)|🟡 Medium| `Sliding Windows` |
 | [Count of Substrings Containing Every Vowel and K Consonants II (3306)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/3306.py)|🟡 Medium| `Sliding Windows`|
 | [Number of Substrings Containing All Three Characters (1358)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/1358.py)|🟡 Medium| `Sliding Windows`|
+| [Maximum Count of Positive Integer and Negative Integer (2529)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2529.py)|🟢 Easy| `Binary Search`|
 
 
