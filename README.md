@@ -32,4 +32,7 @@
 | [Closet Prime Numbers in Range (2523)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2523.py) |🟡 Medium|`Mathmatical`|
 | [Minimum Recolors to Get K Consecutive Black Blocks (2379)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2379.py)|🟢 Easy| `Sliding Windows` `Priority Queue` |
 | [Alternating Groups II (3208)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/3208.py)|🟡 Medium| `Sliding Windows` |
+| [Count of Substrings Containing Every Vowel and K Consonants II (3306)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/3306.py)|🟡 Medium| `Sliding Windows`|
+| [Number of Substrings Containing All Three Characters (1358)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/1358.py)|🟡 Medium| `Sliding Windows`|
+
 
