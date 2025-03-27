@@ -38,6 +38,8 @@
 | [Maximum Candies Allocated to K Children (2226)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2226.py)|🟡 Medium| `Binary Search`|
 | [Find All Possible Recipes from Given Supplies (2115)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2115.py)|🟡 Medium| `BFS` `DFS`|
 | [Count Days Without Meetings (3169)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/3169.py)|🟡 Medium| `Diff Map`|
+| [Minimum Index of a Valid Split (2780)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2780.py)|🟡 Medium| `HashMap`|
+
 
 
 
