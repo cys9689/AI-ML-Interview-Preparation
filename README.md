@@ -39,7 +39,9 @@
 | [Find All Possible Recipes from Given Supplies (2115)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2115.py)|🟡 Medium| `BFS` `DFS`|
 | [Count Days Without Meetings (3169)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/3169.py)|🟡 Medium| `Diff Map`|
 | [Minimum Index of a Valid Split (2780)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2780.py)|🟡 Medium| `HashMap`|
-
+| [Maximum Number of Points From Grid Queries (2503)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2503.py)|🔴 Hard| `Priority Queue`|
+| [Maximum Value of an Ordered Triplet I (2873)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2873_2874.py)|🟢 Easy| `Greedy`|
+| [Maximum Value of an Ordered Triplet II (2874)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2873_2874.py)|🟡 Medium| `Greedy`|
 
 
 
