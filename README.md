@@ -42,6 +42,7 @@
 | [Maximum Number of Points From Grid Queries (2503)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2503.py)|🔴 Hard| `Priority Queue`|
 | [Maximum Value of an Ordered Triplet I (2873)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2873_2874.py)|🟢 Easy| `Greedy`|
 | [Maximum Value of an Ordered Triplet II (2874)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2873_2874.py)|🟡 Medium| `Greedy`|
+| [Count of Interesting Subarrays (2845)](https://github.com/cys9689/AI-ML-Interview-Preparation/blob/main/Daily%20Challenge/2845.py)|🟡 Medium| `Prefix Sum`|
 
 
 
